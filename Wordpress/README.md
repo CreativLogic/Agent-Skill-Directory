@@ -42,7 +42,7 @@ Agent Skills solve this by giving AI assistants **expert-level WordPress knowled
 
 ```bash
 # Clone agent-skills
-git clone https://github.com/CreativLogic/Agent-Skills-Directory/WordPress.git
+git clone https://github.com/CreativLogic/Agent-Skill-Directory/WordPress.git
 cd Wordpress
 
 # Build the distribution
@@ -61,7 +61,7 @@ This installs skills to `~/.claude/skills/` where Claude Code will automatically
 
 ```bash
 # Clone agent-skills
-git clone https://github.com/CreativLogic/Agent-Skills-Directory/WordPress.git
+git clone https://github.com/CreativLogic/Agent-Skill-Directory/WordPress.git
 cd Wordpress
 
 # Build the distribution
